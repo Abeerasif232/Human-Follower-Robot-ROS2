@@ -30,7 +30,7 @@ source install/setup.bash
 ### 3. Clone the Project Package
 ```
 cd ~/ros2_ws/src
-###  Add the project Package in the 'src' folder  ###
+###  Add the project Package (care_robot folder) in the 'src' folder  ###
 ```
 
 ### 4. Additional Folders 
